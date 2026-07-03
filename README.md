@@ -4,8 +4,8 @@ Um jogo da cobrinha clássico desenvolvido em **Python** com a biblioteca **Pyga
 
 ## 👥 Autores
 
-- Josué Kaufmann Wolfgramm
-- [NOME DO(A) COLEGA]
+- [Josué Kaufmann Wolfgramm](https://github.com/JoKaWo)
+- [Guilherme Moreira Pagano](https://github.com/Guilherme-Pagano)
 
 ## 🎮 Sobre o jogo
 
